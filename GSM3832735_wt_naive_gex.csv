@@ -1,5 +1,5 @@
-  Value_df2 OtherValue_df2
-A    100        1000
-B    200        2000
-C    500        5000
-D    600        6000
+  ,Value_df2,OtherValue_df2
+A,100,1000
+B,200,2000
+C,500,5000
+D,600,6000
